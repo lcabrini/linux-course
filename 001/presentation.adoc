@@ -1,0 +1,15 @@
+= Linux Course: Lesson 1
+Lorenzo Cabrini <lorenzo.cabrini@mgmail.com>
+:icons: font
+:source-highlighter: coderay
+:experimental:
+:pdf-page-size: 9in x 6in
+:title-page:
+
+<<<
+
+Welcome!
+
+You are going to learn about *Linux*.
+
+<<<
